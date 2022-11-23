@@ -80,7 +80,7 @@
 <div class="paragraph">
 <p>At the end of the processing, a report needs to be created which will display both the transaction reference and description of each of the failed records.</p>
 
-<p>A sample csv(records.csv) & xml(records.xml) file sare also found in this repo!
+<p>A sample csv(records.csv) & xml(records.xml) file can also be found in this repo!
 </p>
 </div>
 </div>
