@@ -79,6 +79,9 @@
 </div>
 <div class="paragraph">
 <p>At the end of the processing, a report needs to be created which will display both the transaction reference and description of each of the failed records.</p>
+
+<p>A sample csv [here](./records.csv) & xml[here](./records.xml) file can also be reffered
+</p>
 </div>
 </div>
 </div>
