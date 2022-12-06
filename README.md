@@ -5,7 +5,7 @@
 <div>
 <div>
 <div>
-<p>ABC Bank receives monthly deliveries of customer statement records. This information is delivered in three formats CSV, XML. These records need to be validated.</p>
+<p>ABC Bank receives monthly deliveries of customer statement records. This information is delivered in two formats CSV, XML. These records need to be validated.</p>
 </div>
 </div>
 </div>
