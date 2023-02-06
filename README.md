@@ -59,6 +59,7 @@
 <h2 id="_output">Output</h2>
 <div class="sectionbody">
 <div class="paragraph">
+<p>You need to create a library that can take these csv or json data as input.</p>
 <p>There are four validations:</p>
 </div>
 <div class="ulist">
@@ -78,9 +79,9 @@
 </ul>
 </div>
 <div class="paragraph">
-<p>At the end of the processing, a report needs to be created which will display both the transaction reference and description of each of the failed records.</p>
+<p>At the end of the processing, a list of report objects should be returned which should have both the transaction reference and description of each of the failed records.</p>
 
-<p>A sample csv(records.csv) & xml(records.json) file can also be found in this repo!
+<p>A sample csv(records.csv) & json(records.json) file can also be found in this repo!
 </p>
 </div>
 </div>
