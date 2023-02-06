@@ -60,7 +60,7 @@
 <div class="sectionbody">
 <div class="paragraph">
 <p>You need to create a library that can take these csv or json data as input.</p>
-<p>There are four validations:</p>
+<p>This data has to be validated against the following validations:</p>
 </div>
 <div class="ulist">
 <ul>
