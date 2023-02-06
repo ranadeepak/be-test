@@ -5,7 +5,7 @@
 <div>
 <div>
 <div>
-<p>ABC Bank receives monthly deliveries of customer statement records. This information is delivered in two formats CSV, XML. These records need to be validated.</p>
+<p>ABC Bank receives monthly deliveries of customer statement records. This information is delivered in two formats CSV, JSON. These records need to be validated.</p>
 </div>
 </div>
 </div>
@@ -80,7 +80,7 @@
 <div class="paragraph">
 <p>At the end of the processing, a report needs to be created which will display both the transaction reference and description of each of the failed records.</p>
 
-<p>A sample csv(records.csv) & xml(records.xml) file can also be found in this repo!
+<p>A sample csv(records.csv) & xml(records.json) file can also be found in this repo!
 </p>
 </div>
 </div>
